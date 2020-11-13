@@ -1,0 +1,16 @@
+{
+  "name": "node_cook_book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01_count_lines.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2",
+    "tar-map-stream": "^1.0.0"
+  }
+}
